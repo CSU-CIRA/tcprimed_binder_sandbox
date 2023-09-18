@@ -1,0 +1,13 @@
+name: sandbox-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - netCDF4
+  - cartopy
+  - metpy
+  - global_land_mask
+  - tensorflow
+  - nbgitpuller

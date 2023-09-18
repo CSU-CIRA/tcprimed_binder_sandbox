@@ -8,6 +8,5 @@ dependencies:
   - netCDF4
   - cartopy
   - metpy
-  - global_land_mask
   - tensorflow
   - nbgitpuller
